@@ -30,13 +30,15 @@
              
 </p>
 <br>
+<p>
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 ---
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik-Prakash-Sannakki&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Prakash-Sannakki&theme=tokyonight&show_icons=true" />
 
+</p>
 </p>
 
 <!--
