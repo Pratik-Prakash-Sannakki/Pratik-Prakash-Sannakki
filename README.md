@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 
 ---
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-Prakash-Sannakki&show_icons=true&theme=dark)
 
 <a href="https://github.com/Daggy1234">
