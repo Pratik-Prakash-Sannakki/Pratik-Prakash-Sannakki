@@ -38,7 +38,7 @@
 
 
  
-
+<br>
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 ---
 <p align="right">
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Vibin to 🎧
+### 🎧 Vibin to 
 ---
 [![Spotify](https://novatorem-omega-blue.vercel.app/api/spotify)](https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu)
 
