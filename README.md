@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 ### Spotify Playing 🎧
 
 
-<a href="https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu">
-  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
+[![Spotify](https://https://novatorem-omega-blue.vercel.app/api/spotify)](https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu)
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
