@@ -1,7 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <cod/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
     
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/Spotify.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/YouTube.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />
 </div>
 <div align="center">
