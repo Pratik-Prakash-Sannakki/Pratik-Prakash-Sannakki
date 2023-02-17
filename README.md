@@ -87,9 +87,4 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik-Prakash-Sannakki&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Prakash-Sannakki&theme=tokyonight&show_icons=true" />
-
-</p>
