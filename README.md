@@ -47,4 +47,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-Prakash-Sannakki&show_icons=true&theme=dark)
 
-    
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Prakash-Sannakki&layout=compact" />
+</a>
