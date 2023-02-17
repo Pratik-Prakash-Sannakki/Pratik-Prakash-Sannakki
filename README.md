@@ -45,6 +45,9 @@
 ### 🎧 Vibin to 
 ---
 [![Spotify](https://novatorem-omega-blue.vercel.app/api/spotify)](https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu)
+    
+    
+
 
 
 
@@ -66,4 +69,5 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
-
+---
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
