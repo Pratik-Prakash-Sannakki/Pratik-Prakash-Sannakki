@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞  <Br> <Do What Excites/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞 <DoWhatExcites/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Pratik;Computer+Engineering+Student;Tech+Enthusiast;Alternative+Rock+Lover+%3C3" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
