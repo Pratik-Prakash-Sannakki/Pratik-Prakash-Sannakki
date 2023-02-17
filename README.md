@@ -10,7 +10,7 @@
 
 
 
- Tools and Frameworks <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" />
+ ### Tools and Frameworks <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" />
 <p align="center">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
     
@@ -65,7 +65,8 @@ Here are some ideas to get you started:
 
 
 ---
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> 
+### Some stats
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-Prakash-Sannakki&show_icons=true&theme=dark)
