@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-[![Spotify](https://novatorem-9ydm.vercel.app/api/spotify)](https://open.spotify.com/user/)
+[![Spotify](https://novatorem-9ydm-pratik-prakash-sannakki.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
+[![Spotify](https://novatorem-9ydm-pratik-prakash-sannakki.vercel.app/apitify)](https://open.spotify.com/user/)
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
