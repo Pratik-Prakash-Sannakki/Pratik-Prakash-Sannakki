@@ -30,8 +30,8 @@
              
 </p>
     </div>
-<div>
-<p>
+
+
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 ---
 <p align="right">
@@ -39,23 +39,8 @@
 
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Prakash-Sannakki&theme=tokyonight&show_icons=true" />
 
-</p>
-</p>
-</div>
-<!--
-**Pratik-Prakash-Sannakki/Pratik-Prakash-Sannakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### 🎧 Vibin to 
 ---
