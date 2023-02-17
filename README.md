@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Spotify Playing 🎧
 
 
-<a href="https://open.spotify.com/user/dl3rgkrwco194cm2lynildhle">
+<a href="https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu">
   <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
 ---
