@@ -30,7 +30,7 @@
              
 </p>
     </div>
-
+<div>
 <p>
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 ---
@@ -41,7 +41,7 @@
 
 </p>
 </p>
-
+</div>
 <!--
 **Pratik-Prakash-Sannakki/Pratik-Prakash-Sannakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
