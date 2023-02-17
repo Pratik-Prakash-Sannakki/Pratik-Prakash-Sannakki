@@ -68,6 +68,9 @@
   <a href="mailto:pratikpsannakki1@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
+     <a href="https://github.com/Pratik-Prakash-Sannakki">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fourpic%2Fu2q8u2a9a9r5r5a9_portfolio-my-portfolio%2F&psig=AOvVaw0kXEp-sMBWjbYy73D_ksJ3&ust=1676763928071000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODW5MTenf0CFQAAAAAdAAAAABAE" height="30px" style="margin: 5px;" />
+  </a>
 </p>
 
 
