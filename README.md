@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/search/touch%20daft%20punk#login%3Fflow_id=04335aad-83ad-4c0d-a4a0-41bb8864ce6d%3A1676677624%3Fflow_id=b5be9ec1-a869-4c67-bd10-f63afd3f3847%3A1676677629%3Fflow_id=12588665-fc01-459d-9db5-f248fb531d83%3A1676677661)
 
 ---
 
