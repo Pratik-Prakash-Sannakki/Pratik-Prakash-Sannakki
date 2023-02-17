@@ -1,7 +1,9 @@
 <div align="center">
     
 <h2><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 𝐇𝐞yy 𝐭𝐡𝐞𝐫𝐞 !!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-    
+<div align="center">
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+</div>
 </div>
 </div>
 <div align="center">
@@ -70,6 +72,4 @@
   </a>
 </p>
 
-<div align="center">
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-</div>
+
