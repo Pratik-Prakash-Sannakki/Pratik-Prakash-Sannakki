@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### What I'm Vibin to right now 🎧
+### Vibin to 🎧
 
 [![Spotify](https://novatorem-omega-blue.vercel.app/api/spotify)](https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu)
 
