@@ -40,7 +40,12 @@
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
 
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
+
+</p>
 
 <!--
 **Pratik-Prakash-Sannakki/Pratik-Prakash-Sannakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,10 +70,9 @@ Here are some ideas to get you started:
 ---
 
 
-<p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-Prakash-Sannakki&show_icons=true&theme=dark)
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik-Prakash-Sannakki&theme=tokyonight&show_icons=true" />
 
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Prakash-Sannakki&layout=compact" />
-</a>
- </p>
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Prakash-Sannakki&theme=tokyonight&show_icons=true" />
+
+</p>
