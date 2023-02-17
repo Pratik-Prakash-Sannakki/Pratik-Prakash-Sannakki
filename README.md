@@ -31,7 +31,7 @@
 </p>
     </div>
 
-
+<br>
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 ---
 <p align="right">
@@ -41,14 +41,14 @@
 
 
 
-
+<br>
 ### 🎧 Vibin to 
 ---
 [![Spotify](https://novatorem-omega-blue.vercel.app/api/spotify)](https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu)
 
 
 
-
+<br>
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Reach out to me on...
 ---
 <p align="center">
