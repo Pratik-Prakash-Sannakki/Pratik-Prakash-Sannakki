@@ -44,8 +44,9 @@
 
 ### 🎧 Vibin to 
 ---
+<div align="center">
 [![Spotify](https://novatorem-omega-blue.vercel.app/api/spotify)](https://open.spotify.com/user/31sea6kbq76vguqgczex6jt32owu)
-
+</div>
 
 
 
