@@ -69,4 +69,6 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+[![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)]
