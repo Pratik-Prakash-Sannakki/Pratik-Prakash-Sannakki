@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/search/touch%20daft%20punk#login%3Fflow_id=04335aad-83ad-4c0d-a4a0-41bb8864ce6d%3A1676677624%3Fflow_id=b5be9ec1-a869-4c67-bd10-f63afd3f3847%3A1676677629%3Fflow_id=12588665-fc01-459d-9db5-f248fb531d83%3A1676677661)
 
+<a href="https://open.spotify.com/user/dl3rgkrwco194cm2lynildhle">
+  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
