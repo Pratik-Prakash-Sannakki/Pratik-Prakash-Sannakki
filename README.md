@@ -49,7 +49,7 @@
     
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on 
 ---
-Any open source project that involving intresting ideas and new tech - Do What Excites <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" />
+Any open source project involving intresting ideas and new tech - Do What Excites <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" />
 
 
 
