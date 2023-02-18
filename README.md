@@ -69,7 +69,7 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
      <a href="https://github.com/Pratik-Prakash-Sannakki">
-    <img src="https://icons8.com/icon/LoyAjcvVKv1K/portfolio" height="30px" style="margin: 5px;" />
+    <img src="https://drive.google.com/file/d/1io9YaMSIMeX9NBEn8Ae9AMR4a-Cbqga6/view?usp=sharing" height="30px" style="margin: 5px;" />
   </a>
 </p>
 
