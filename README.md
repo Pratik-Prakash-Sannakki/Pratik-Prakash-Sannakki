@@ -34,7 +34,7 @@
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Pratik-Prakash-Sannakki&color=blueviolet)
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik-Prakash-Sannakki&theme=tokyonight&show_icons=true" />
 
