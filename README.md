@@ -1,7 +1,6 @@
 <div align="center">
     
-<h1><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 𝐇𝐞yy 𝐭𝐡𝐞𝐫𝐞 !!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Pratik;Computer+Engineering+Student;Data+Scientist+in+the +Making;Tech+Enthusiast;Alternative+Rock+Lover+%3C3" alt=" Data Scientist | Tech Enthusiast | Metal head"></a>
+<h1><a> Data Scientist | Tech Enthusiast | Metal head</a></h1>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
